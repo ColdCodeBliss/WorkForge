@@ -13,7 +13,7 @@ Features
 
 Installation
 
-    Clone the repository: git clone https://github.com/yourusername/WorkForge.git
+    Clone the repository: git clone https://github.com/ColdCodeBliss/WorkForge.git
     Open the project in Xcode.
     Ensure you have Xcode 18.4 or later installed.
     Build and run on an iPhone simulator (e.g., iPhone 16).
@@ -39,6 +39,6 @@ License
 MIT License - Feel free to modify and distribute, but include the original license.
 Contact
 
-For questions, reach out at your-email@example.com.
+For questions, reach out at ColdCodeBliss@gmail.com.
 
 Note: This project is under active development. Expect updates and additional features soon!
